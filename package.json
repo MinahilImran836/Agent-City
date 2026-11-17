@@ -1,0 +1,8 @@
+{
+  "name": "agent-city",
+  "version": "0.3.0",
+  "type": "module",
+  "engines": { "node": ">=20.12" },
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}

@@ -2,7 +2,9 @@
 
 A 3D city of AI agents that does your work for you. Type **one command** and the Mayor in City Hall plans it, hands steps to the right shops (Jobs, Research, Gmail, Calendar, Sheets, or any shop you build), runs independent steps in parallel, reviews the results and gives you a final report. Couriers run between shops so you can watch it happen.
 
-Example: *"Find internships in Lahore for a CS student who knows Python, save them to a Google Sheet and email me the top 5."*
+Example: *"Find internships for a CS student who knows Python, save them to a Google Sheet and email me the top 5."*
+
+![SS](AgentCity.png)
 
 ## What it does
 - **Missions:** the Mayor splits a goal into dependent steps, runs them, checks the work and adds follow-ups if something is missing.
